@@ -16,7 +16,7 @@
 
 
 <details>
-#### <summary><h1>BFS 알고리즘을 이용하여 최단경로 찾기</h1> </summary>
+  <summary><h4>BFS 알고리즘을 이용하여 최단경로 찾기</h1> </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 `ㅇㅇㅇ`
