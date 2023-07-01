@@ -15,8 +15,6 @@
 
 #### BFS 알고리즘을 이용하여 최단경로 찾기 
 
-## 접기 시작
-
 <details>
 <summary>접기/펼치기</summary>
 
